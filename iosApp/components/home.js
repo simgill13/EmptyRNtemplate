@@ -10,7 +10,7 @@ class Home extends Component{
   static navigationOptions = {
     // used to hide the header
     // header: null,
-    title:'test'
+    title:'title'
     
   }
 
